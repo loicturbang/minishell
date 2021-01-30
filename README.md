@@ -6,13 +6,13 @@
 
 ![minishell example 2](https://i.ibb.co/HGR9Sm9/minishell2.png)
 
-# Final grade : 100/115
+## Final grade : 100/115
 
 Mandatory part : 100/100
 
 Bonus : 0/15
 
-# How to run
+## How to run
 
 Use `make` to create `minishell` executable.
 
@@ -22,7 +22,7 @@ Now run with :
 ./minishell
 ```
 
-# Credit
+## Credit
 
 I made this project with @Alyovano.
 
