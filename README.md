@@ -25,6 +25,7 @@ Now run with :
 # Credit
 
 I made this project with @Alyovano.
+
 He was responsible for environnement variables, built-ins, and a big part of parsing.
 
 My part was token parsing, execution, redirrections, pipes and signal handling.
